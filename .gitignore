@@ -7,4 +7,4 @@ venv/
 Desktop.ini
 Thumbs.db
 # temporary world written by tools/run_experiment.py
-Experiment-7/worlds/_experiment_*.wbt
+exp07-webots/worlds/_experiment_*.wbt
