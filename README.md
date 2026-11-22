@@ -7,7 +7,7 @@ School of Computer Science, UPES Dehradun. Autumn Semester 2026–27.
 |---|---|
 | **Name** | Sanyam Goyal |
 | **SAP ID** | 500125279 |
-| **Programme / batch** | B.Tech CSE (AI & ML), Semester VII, Batch B (B2) |
+| **Programme / batch** | B.Tech CSE (AI & ML), Semester VII, Batch B2 |
 | **Lab partner(s)** | None |
 | **Course teacher** | Dr. Resham Raj Shivwanshi |
 
