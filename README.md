@@ -8,7 +8,7 @@ School of Computer Science, UPES Dehradun. Autumn Semester 2026–27.
 | **Name** | Sanyam Goyal |
 | **SAP ID** | 500125279 |
 | **Programme / batch** | B.Tech CSE (AI & ML), Semester VII, Batch B (B2) |
-| **Lab partner(s)** | _to be filled in_ |
+| **Lab partner(s)** | None |
 | **Course teacher** | Dr. Resham Raj Shivwanshi |
 
 ---
@@ -99,4 +99,4 @@ PyBullet has no prebuilt Windows wheel, so `pip` compiles it (needs the Microsof
 * E. Coumans and Y. Bai, *PyBullet*, <http://pybullet.org>. Robot models from `pybullet_data`.
 * S. Russell and P. Norvig, *Artificial Intelligence: A Modern Approach*, 3rd ed.
 * NumPy, SciPy, Matplotlib and scikit-learn documentation.
-* AI assistants used: _to be filled in_
+* AI assistants used: ChatGPT and Claude
